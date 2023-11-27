@@ -1,5 +1,8 @@
 # Wagner Pimentel
 ## wagnerppimentel@outlook.com - (19)9.7145-7515
+Americana - SP
+
+28 anos - Casado - 2 filhos
 > "É nozes"
 
 ### Objetivo: Dev Front-End
