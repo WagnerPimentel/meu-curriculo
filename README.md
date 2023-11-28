@@ -15,3 +15,9 @@ Americana - SP
 
 ## Cursos livres
 - Assistente Administrativo com Informática Básica com Excel e Word - SENAI [180h]
+
+## 💻 Tecnologias
+
+## 📚 Conhecimentos Extras
+
+## 🔎 Projetos
